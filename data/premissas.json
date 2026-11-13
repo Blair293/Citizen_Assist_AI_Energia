@@ -1,0 +1,15 @@
+{
+  "descricao": "Cenário didático estimado; substituir por dados medidos e orçamentos locais.",
+  "publico": "Famílias que desejam reduzir o gasto com eletricidade.",
+  "quantidade_lampadas": 5,
+  "potencia_lampada_antiga_W": 60,
+  "potencia_LED_W": 9,
+  "horas_de_uso_por_dia": 5,
+  "dias_por_mes": 30,
+  "tarifa_R$_por_kWh": 0.9,
+  "preco_por_lampada_LED_R$": 12.0,
+  "potencia_sistema_solar_kWp": 0.5,
+  "horas_sol_pico_por_dia": 4.5,
+  "fator_desempenho": 0.8,
+  "custo_sistema_solar_instalado_R$": 3500.0
+}
